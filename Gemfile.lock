@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    colorize (0.8.1)
+    origami (2.1.0)
+      colorize (~> 0.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  origami
+
+BUNDLED WITH
+   1.17.1
